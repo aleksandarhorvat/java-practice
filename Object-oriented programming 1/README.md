@@ -1,0 +1,1 @@
+Contains all examples from the subject "Object-oriented programming 1"

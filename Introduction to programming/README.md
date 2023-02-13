@@ -1,0 +1,1 @@
+Contains all examples from the subject "Introduction to programming"
